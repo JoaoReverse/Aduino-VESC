@@ -7,11 +7,11 @@
 
 </p>
 
-Requisitos:
-1.Arduino Uno
-2.Software arduino: https://www.arduino.cc/en/Main/Software
-3.Saber soldar componentes 
-4.Basico de programação em C
+<h3 align="left">Requisitos:</h3>
+1.Arduino Uno <br>
+2.Software arduino: https://www.arduino.cc/en/Main/Software <br>
+3.Saber soldar componentes <br>
+4.Basico de programação em C <br>
 
 Primeiro você precisa saber o PMM so seu motor, para mais informações <a href="https://oscarliang.com/pwm-ppm-difference-conversion/">veja esse link</a>
 
