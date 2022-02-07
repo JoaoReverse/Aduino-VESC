@@ -1,5 +1,5 @@
-<h1 align="center">Aduino-VESC</h1>
-<p align="center">Projeto para controlar motor DC via arruíno, substituindo o VESC (Para competição Shell Eco Marathon)</p>
+<h1 align="center">Arduino-VESC</h1>
+<p align="center">Projeto para controlar motor DC via arduíno, substituindo o VESC (Para competição Shell Eco Marathon)</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
